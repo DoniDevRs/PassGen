@@ -1,0 +1,50 @@
+// MARK: - VIEWS
+
+"titlePasswordGeneratorVC" = "Password Generator";
+"numberOfPasswordsText" = "Number of Passwords: ";
+"totalCharactersText" = "Total Characters: ";
+"useLowerCaseText" = "Use Lowercase Letters: ";
+"useNumbersText" = "Use Numbers: ";
+"useCapitalLettersText" = "Use Capital Letters: ";
+"useSpecialCharText" = "Use Special Characters: ";
+"buttonGenerateTitle" = "Generate Password";
+
+"titlePasswordsListVC" = "Passwords List";
+"buttonGenerateAgainTitle" = "Generate Again";
+"buttonTipsSecTitle" = "Secutiry Tips";
+
+"closeButton" = "Close";
+"labelTitle" = "10 Tips to create a Strong Password";
+
+// MARK: - TIPS
+
+"tip1Title" = "1. Choose passwords easy to remember: ";
+"tip1Description" = "A password that is easy to remember prevents the user from having to write it down on paper or files, which could end up in the hands of the wrong people.";
+
+"tip2Title" = "2. Don't use real words: ";
+"tip2Description" = "A word that can be found in the dictionary can make the work of hackers easier. To make this job more difficult, use phrases instead of nouns.";
+
+"tip3Title" = "3. Combine uppercase, lowercase, numbers, and non-alphanumeric characters: ";
+"tip3Description" = "Inserting these items into the password further complicates the work of anyone with malicious intent.";
+
+"tip4Title" = "4. Don't recycle passwords: ";
+"tip4Description" = "For example, don't use 'password1', 'password2', 'password3' on different accounts. By changing just one character, the user runs the risk of handing over access to other services to the cybercriminal.";
+
+"tip5Title" = "5. Don't use the same password for multiple accounts: ";
+"tip5Description" = "The same applies in this case. If the worst happens, the user loses the security of all their accounts.";
+
+"tip6Title" = "6. Don't use obvious passwords that can be easily guessed: ";
+"tip6Description" = "Do not choose the name of family members as your code, such as your son, husband or even your pet. By lightly investigating someone's life, these names are easily discovered and can become a weapon.";
+
+"tip7Title" = "7. Don't share your password: ";
+"tip7Description" = "Never share your personal information. If a company asks for your password, even over the phone, don't tell them. Remember, you don't know who is on the other end of the phone line.";
+
+"tip8Title" = "8. If a website sends you a confirmation email with a new password, log in to the page and change your password immediately :";
+"tip8Description" = "This procedure prevents possible fraud. When opening suspicious links, the user may end up providing personal information without realizing it.";
+
+"tip9Title" = "9. Make sure your internet security software blocks cybercriminals' intentions to intercept or steal passwords: ";
+"tip9Description" = "Many attacks can be prevented by activating basic antivirus internet protection services.";
+
+"tip10Title" = "10. If you find it difficult to remember multiple complex passwords, consider installing a password manager : ";
+"tip10Description" = "There are several programs available that store data securely and help the most forgetful.";
+
